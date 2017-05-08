@@ -8,6 +8,7 @@ public interface GraphInterface<T>
   // Returns true if this graph is empty; otherwise, returns false.
   // this is code mod by studentilir
   // meanwhile prof dema added more code
+  // more changes by profdema
 
   boolean isFull();
   // Returns true if this graph is full; otherwise, returns false.
